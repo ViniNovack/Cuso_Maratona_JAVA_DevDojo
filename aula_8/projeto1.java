@@ -5,3 +5,11 @@ public class projeto1 {
         System.out.println("Hello, word");
     }
 }
+
+// Isso é um comentário de uma linha
+
+/*
+    Isso é um comentário
+    de multiplas
+    linhas
+*/
