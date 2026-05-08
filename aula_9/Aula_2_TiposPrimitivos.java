@@ -12,7 +12,7 @@ public class Aula_2_TiposPrimitivos {
         boolean falso = false;
         char caractere = 10;
 
-        System.out.println("Ele tem " + idade + " anos.\n");
+        System.out.println("Ele tem " + idade + " anos.");
         System.out.println(verdadeiro);
     }
 }
