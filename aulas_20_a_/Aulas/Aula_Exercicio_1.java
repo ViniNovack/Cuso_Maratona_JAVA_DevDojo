@@ -1,4 +1,4 @@
-public class Aula_Exercicio {
+public class Aula_Exercicio_1 {
     public static void main(String[] args){
         double salarioAnual = 70_000;
         double imposto;
