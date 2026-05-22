@@ -1,7 +1,7 @@
 public class Exercicio_1 {
     public static void main(String[] args){
-        byte op = 1;
-        double saldo = 30;
+        byte op = 2;
+        double saldo = 45;
         String resultado;
         double pendente;
         switch(op){
@@ -44,6 +44,9 @@ public class Exercicio_1 {
             default:
                 resultado = "Opção inválida! O Taverneiro expulsou você.";
         }
+        System.out.println("____MENU____");
+        System.out.println("1 - Cerveja Amanteigada (R$ 15.50)" + "\n2 - Poção de Cura (R$ 45.00)" + "\n3 - Suco de Abóbora (R$ 10.00)" + "\n4 - Água Mineral (R$ 2.00)");
+        System.out.println("-".repeat(30));
         System.out.println(resultado);
     }
 }
