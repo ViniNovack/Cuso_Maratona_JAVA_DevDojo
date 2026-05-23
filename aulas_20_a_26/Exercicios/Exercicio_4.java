@@ -1,7 +1,7 @@
 public class Exercicio_4 {
     public static void main(String[] args){
         double temp = 27.5;
-        int dia = 2;
+        int dia = 1;
         String resultado;
 
         switch(dia){
@@ -18,7 +18,7 @@ public class Exercicio_4 {
             case 4:
             case 5:
             case 6:
-                resultado = "Ir para praia";
+                resultado = "Focar nos estudos!!";
                 break;
             default:
                 resultado = "Resposta invalida!!";

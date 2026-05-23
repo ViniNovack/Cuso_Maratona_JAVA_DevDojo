@@ -5,7 +5,6 @@ public class Aula_15 {
         int numero01 = 10;
         int numero02 = 20;
         double resultado = numero01 / (double) numero02;
-        double resultado02 = numero01 / numero02;  //Pelo fato do valor "numero02" ser um int ele imprime 0, por conta disso se coloca como double
 
         System.out.println(numero01 + numero02 + " VALOR " + numero01 + numero02);
         System.out.println(resultado);
@@ -17,14 +16,14 @@ public class Aula_15 {
         boolean isDezMaiorQueVinte = 10 > 20;
         boolean isDezMenorQueVinte = 10 < 20;
         boolean isDezIgualVinte = 10 == 20;
-        boolean isDezIgualDez = 10 == 10;
-        boolean isDezDiferenteDez = 10 != 10;
+        boolean isDezMaiorQueVinte2 = 10 > 20;
+        boolean isDezMenorQueVinte2 = 10 < 20;
 
         System.out.println(isDezMaiorQueVinte);
         System.out.println(isDezMenorQueVinte);
         System.out.println(isDezIgualVinte);
-        System.out.println(isDezIgualDez);
-        System.out.println(isDezDiferenteDez);
+        System.out.println(isDezMaiorQueVinte2);
+        System.out.println(isDezMenorQueVinte2);
 
 
         System.out.println();

@@ -8,6 +8,6 @@ class Exercicio_1 {
         char genero = 'M';
         boolean v_m = true;
 
-        System.out.println("NOME: " + nome + "\nIDADE: " + idade + "\nALTURA: " + altura);
+        System.out.println("NOME: " + nome + "\nIDADE: " + idade + "\nALTURA: " + altura + "\nGÊNERO: " + genero + "\nVÁLIDO: " + v_m);
     }
 }
