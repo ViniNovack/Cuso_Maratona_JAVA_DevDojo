@@ -1,4 +1,4 @@
-package aulas_27_a_31.Aulas;
+// package aulas_27_a_31.Aulas;
 
 public class Aula_28_Exercicio {
     public static void main(String[] args){
