@@ -12,7 +12,7 @@ public class Exercicio_4 {
                 continue;
             }
         }
-        if(!encontrado){                                                               // OR encontrado == false
+        if(encontrado == false){
             System.out.println("O nome " + nome + " não esta na lista.");
         }
     }
